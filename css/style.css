@@ -88,13 +88,13 @@ main {
   width: 70%;
   text-align: center;
   margin-bottom: 10px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.5);
   padding: 10px 0px;
 }
 
 #todo-form input,
 #todo-form input::placeholder {
-  font-size: 24px;
+  font-size: 20px;
   color: black;
 }
 
