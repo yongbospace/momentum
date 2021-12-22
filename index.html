@@ -10,37 +10,34 @@
     
     <h2 id="clock">00:00:00</h2>
     
+    <header>
     <form id="login-form" class="hidden">
-      <input
+      <lable for="login-name">Write your name.</lable>
+      <input id="login-name"
         required
         maxlength="15"
         type="text"
-        placeholder="Name ?"
       />
-      <input type="submit" value=":Go" />
+      <input type="submit" value="" />
     </form>
     <h1 id="greeting" class="hidden"></h1>
-    
-    <main>
-      
-      <div id="quote">
+    </header>
+
+       <div id="quote">
         <span></span>
         <span></span>
-      </div>
+       </div>
 
-
-      <div id="todo">
-        <form id="todo-form">
+    <div id="todo">
+      <form id="todo-form">
         <input
           type="text"
-          placeholder="Write a to Do and Press Enter!"
+          placeholder="WRITE a TODO & ENTER"
           required
-        />  
-        </form>
-        <ul id="todo-list"></ul>
-      </div>  
-
-    </main>
+        /> 
+      </form>
+      <ul id="todo-list"></ul>
+    </div>  
     
     <div id="weather">
       <span></span>

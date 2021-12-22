@@ -15,18 +15,17 @@ const quotes = [
     author: "Jason Crandell",
   },
   {
-    quote:
-      "True yoga is not about the shape of your body, but the shape of your life. Yoga is not to be performed; yoga is to be lived. Yoga doesn’t care about what you have been; yoga cares about the person you are becoming. Yoga is designed for a vast and profound purpose, and for it to be truly called yoga, its essence must be embodied.",
-    author: "Aadil Palkhivala",
+    quote: "Yoga is the perfect opportunity to be curious about who you are.",
+    author: "Jason Crandell",
   },
   {
     quote:
-      "I had discovered something; there was a pleasure in becoming something new. You could will yourself into a fresh shape. Now all I had to do was figure out how to do it out there, in my life.",
-    author: "Claire Dederer",
+      "The very heart of yoga practice is ‘abyhasa’ – steady effort in the direction you want to go.",
+    author: "Sally Kempton",
   },
   {
     quote:
-      "Yoga is not a work-out, it is a work-in. And this is the point of spiritual practice to make us teachable; to open up our hearts and focus our awareness so that we can know what we already know and be who we already are.",
+      "In asana practice we learn to cherish each breath, to cherish every cell in our bodies. The time we spend on the mat is love in action",
     author: "Rolf Gates",
   },
   {
@@ -41,8 +40,8 @@ const quotes = [
   },
   {
     quote:
-      "Learning to be present with yourself and to abide in that which is steady and comfortable does not allow space for self-judgment. When you live this way, you are practicing yoga: you are living fully.",
-    author: "Judith Hanson Lasater",
+      "Remember, it doesn’t matter how deep into a posture you go – what does matter is who you are when you get there.",
+    author: "Max Strom",
   },
   {
     quote:
