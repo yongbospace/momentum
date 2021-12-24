@@ -71,7 +71,6 @@ form {
   height: 30px;
   width: 400px;
   border-bottom: 2px solid white;
-  text-align: center;
   margin: 0px 15px;
 }
 
@@ -88,6 +87,14 @@ form {
   color: white;
   font-size: 24px;
   font-weight: 600;
+}
+
+#todo input::placeholder {
+  text-align: center;
+}
+
+#todo-list li {
+  margin-bottom: 10px;
 }
 
 #todo-list button {
